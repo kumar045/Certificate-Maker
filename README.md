@@ -14,6 +14,8 @@
 - CSV file and template are used as inputs to generate certificates
 - And finally used img2pdf package to convert output images to pdf files
 
+### To run that project run command python GUI.py
+
 
 
 
