@@ -1,0 +1,5 @@
+Packages must be installed 
+1.Pandas
+2.Tkinter
+3.Opencv
+4.img2pdf
